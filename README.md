@@ -1,17 +1,20 @@
 # jisan7
 
            🔥Hello Friend🔥
- 😈 apt update && apt upgrade
- 
- 😈 apt install python
 
- 😈 pip install mechanize lolcat
+            🍁Old Id Hack🍁
+
+ 👿 apt update && apt upgrade
  
- 😈 futurespip install requests bs4
+ 👿 apt install python
+
+ 👿 pip install mechanize lolcat
  
- 😈 pip install futures
+ 👿 futurespip install requests bs4
  
- 😈 apt install git
+ 👿 pip install futures
+ 
+ 👿 apt install git
 
  👿 git clone https://github.com/Jisan70/jisan7
 
